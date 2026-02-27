@@ -186,4 +186,4 @@ Let's follow **John's** experience from the moment he lands on the website:
 
 ### Contributors
 
-  * **Team Size**: 1 member
+  * **Team Size**: 4 members
